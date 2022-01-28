@@ -18,7 +18,8 @@ Physics-love, Algorithms-fun, Rythm-freedom, Water-needed.
 
 ## News
 
-- **[Dec. 2021]** Our wavelet adaptive POD paper was accepted in ACOM finally after 1 year waiting.
+- **[Jan. 2022]** Discussion Contribution for MATHMOD2022 was accepted [[PDF](https://hal.archives-ouvertes.fr/hal-03396325/document)]
+- **[Dec. 2021]** Our wavelet adaptive POD paper was accepted in ACOM
 - **[Dec. 2021]** Submitted "Supervised Learning for Multi Zone Sound Field Reproduction under Harsh Environmental Conditions" together with my master student Henry Sallandt and colleague Mathias Lemke
 
 ## Publications
