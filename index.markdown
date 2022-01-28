@@ -50,3 +50,10 @@ Physics-love, Algorithms-fun, Rythm-freedom, Water-needed.
 
 
 
+
+<div align ="center">
+<strong>Thesis Progress</strong>
+<br>
+<progress value="35" max="100">70 %</progress>
+
+</div>
