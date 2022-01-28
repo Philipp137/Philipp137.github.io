@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Published new paper arxiv:"
+date:   2022-01-28 13:18:28 +0100
+categories: paper
+permalink: "/:categories"
+---
+
+[FTR-code-github]: https://jekyllrb.com/docs/home
+[jekyll-talk]: https://talk.jekyllrb.com/

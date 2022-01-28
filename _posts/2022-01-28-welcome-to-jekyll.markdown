@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Test"
-date:   2021-10-28 23:04:09 +0200
-categories: jekyll update
+layout: homepage
+title:  "Published new paper arxiv:"
+date:   2022-01-28 13:18:28 +0100
+permalink: "/template_post"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
