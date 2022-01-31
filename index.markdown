@@ -7,7 +7,7 @@ I am a physicist located in Berlin, interested in various fields of mathematical
 I like to dive with one breath and make music with my friends.
 
 ### Characteristics: 
-Physics-love, Algorithms-fun, Rhythm-freedom, Water-needed.
+Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandbells), [Water-needed](https://www.tc-lichtenberg.de/aktuelles/aktivit%C3%A4ten-2021/tauchen-in-ammelshain.html).
 
 ## Research Interests
 
