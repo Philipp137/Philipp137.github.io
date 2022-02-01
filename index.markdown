@@ -54,6 +54,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 <div align ="center">
 <strong>Thesis Progress</strong>
 <br>
-<progress value="35" max="100">70 %</progress>
+<progress value="65" max="100">70 %</progress>
 
 </div>
