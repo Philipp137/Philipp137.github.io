@@ -18,13 +18,22 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Feb. 2022]** New article: "Front Transport Reduction for Complex Moving Fronts" online [[PDF](https://arxiv.org/abs/2202.08208)]
 - **[Feb. 2022]** Seminar Talk at the [Absolventenseminar NumDiff](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v_menue/vortraege/absolventen_seminar/absolventinnen_seminar_ss_21/)  [[Code](https://github.com/Philipp137/FrontTransportReduction)]
-                  [Slides coming soon!]
+                  [[Slides](https://Philipp137.github.io/assets/slides/20220203_AbsolventenseminarWS21_22.pdf)]
 - **[Jan. 2022]** Discussion Contribution for MATHMOD2022 was accepted [[PDF](https://hal.archives-ouvertes.fr/hal-03396325/document)]
 - **[Dec. 2021]** Our wavelet adaptive POD paper was accepted in ACOM
 - **[Dec. 2021]** Submitted "Supervised Learning for Multi Zone Sound Field Reproduction under Harsh Environmental Conditions" together with my master student Henry Sallandt and colleague Mathias Lemke
 
 ## Publications
+
+- **Front Transport Reduction for Complex Moving Fronts**
+  <br>
+  Philipp Krah, Steffen Büchholz, Matthias Häringer, Julius Reiss
+  <br>
+  Preprint arXiv:2202.08208
+  <br>
+  [[PDF](https://arxiv.org/abs/2202.08208)] [[Code](https://github.com/Philipp137/FrontTransportReduction)] 
 
 - **Wavelet Adaptive Proper Orthogonal Decomposition for Large Scale Flow Data**
   <br>
@@ -38,7 +47,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Henry Sallandt, Philipp Krah, Mathias Lemke
   <br>
-  arXiv preprint arXiv:2112.07349, under review
+  Preprint arXiv:2112.07349, under review
   <br>
   [[PDF](https://arxiv.org/pdf/2112.07349.pdf)] [[Code](https://github.com/henrysallandt/Supervised-Learning-for-Multi-Zone-Sound-Field-Reproduction-under-Harsh-Environmental-Conditions/)]
 
