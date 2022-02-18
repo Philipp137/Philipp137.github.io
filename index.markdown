@@ -51,6 +51,14 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   [[PDF](https://arxiv.org/pdf/2112.07349.pdf)] [[Code](https://github.com/henrysallandt/Supervised-Learning-for-Multi-Zone-Sound-Field-Reproduction-under-Harsh-Environmental-Conditions/)]
 
+- **Phases at finite winding number of an Abelian lattice gauge theory**
+  <br>
+  Paolo Stornati, Debasish Banerjee, Karl Jansen, Philipp Krah
+  <br>
+  Lattice Conference 2021
+  <br>
+  [[PDF](https://arxiv.org/pdf/2111.09364.pdf)][[Code](https://github.com/Philipp137/SquareIce)]
+
 - **Model Order Reduction of Combustion Processes with Complex Front Dynamics**
   <br>
   Philipp Krah, Mario Sroka, Julius Reiss
@@ -59,8 +67,13 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   [[PDF](https://arxiv.org/pdf/1912.03004.pdf)]
 
-
-
+- **SU(3) Yang Mills theory at small distances and fine lattices**
+  <br>
+  Nikolai Husung Mateusz Koren, Philipp Krah and Rainer Sommer
+  <br>
+  EPJ Web of Conferences 175, 14024 (2018)
+  <br>
+  [[PDF](https://www.epj-conferences.org/articles/epjconf/pdf/2018/10/epjconf_lattice2018_14024.pdf)]
 
 <div align ="center">
 <strong>Thesis Progress</strong>
