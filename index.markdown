@@ -22,7 +22,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Feb. 2022]** Seminar Talk at the [Absolventenseminar NumDiff](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v_menue/vortraege/absolventen_seminar/absolventinnen_seminar_ss_21/)  [[Code](https://github.com/Philipp137/FrontTransportReduction)]
                   [[Slides](https://Philipp137.github.io/assets/slides/20220203_AbsolventenseminarWS21_22.pdf)]
 - **[Jan. 2022]** Discussion Contribution for MATHMOD2022 was accepted [[PDF](https://hal.archives-ouvertes.fr/hal-03396325/document)]
-- **[Dec. 2021]** Our wavelet adaptive POD paper was accepted in ACOM
+- **[Dec. 2021]** Our wavelet adaptive POD paper was accepted in ACOM [[Link](https://link.springer.com/article/10.1007/s10444-021-09922-2)]
 - **[Dec. 2021]** Submitted "Supervised Learning for Multi Zone Sound Field Reproduction under Harsh Environmental Conditions" together with my master student Henry Sallandt and colleague Mathias Lemke
 
 ## Publications
@@ -39,7 +39,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Philipp Krah, Thomas Engels, Kai Schneider, Julius Reiss
   <br>
-  Advances in Computational Mathematics, Accepted Dec. 2021
+  Adv Comput Math 48, 10 (2022).
   <br>
   [[PDF](https://arxiv.org/pdf/2011.05016.pdf)] [[Code](https://github.com/adaptive-cfd/WABBIT)] 
 
