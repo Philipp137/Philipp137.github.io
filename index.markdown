@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[May  2022]** Talk at the [DAEDALUS](https://daedalus.berlin/) retreat [[Slides](https://Philipp137.github.io/assets/slides/20220509_DAEDALUS_retreat.pdf)]
 - **[Feb. 2022]** New article: "Front Transport Reduction for Complex Moving Fronts" online [[PDF](https://arxiv.org/abs/2202.08208)]
 - **[Feb. 2022]** Seminar Talk at the [Absolventenseminar NumDiff](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v_menue/vortraege/absolventen_seminar/absolventinnen_seminar_ss_21/)  [[Code](https://github.com/Philipp137/FrontTransportReduction)]
                   [[Slides](https://Philipp137.github.io/assets/slides/20220203_AbsolventenseminarWS21_22.pdf)]
@@ -78,6 +79,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 <div align ="center">
 <strong>Thesis Progress</strong>
 <br>
-<progress value="65" max="100">70 %</progress>
+<progress value="65" max="100">85 %</progress>
 
 </div>
