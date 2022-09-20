@@ -20,7 +20,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 - **[Aug. 2022]** New article on ArXiv: "Crystalline phases at finite winding densities in a quantum link ladder" [[PDF](https://arxiv.org/pdf/2208.01964.pdf)] 
 - **[May  2022]** Submittion to the [MORE](https://more.sciencesconf.org/) conference has been accepted 
-- **[May  2022]** Talk at the [DAEDALUS](https://daedalus.berlin/) retreat [[Slides](https://Philipp137.github.io/assets/slides/20220509_DAEDALUS_retreat.pdf)]
 - **[Feb. 2022]** New article: "Front Transport Reduction for Complex Moving Fronts" online [[PDF](https://arxiv.org/abs/2202.08208)]
 - **[Feb. 2022]** Seminar Talk at the [Absolventenseminar NumDiff](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v_menue/vortraege/absolventen_seminar/absolventinnen_seminar_ss_21/)  [[Code](https://github.com/Philipp137/FrontTransportReduction)]
                   [[Slides](https://Philipp137.github.io/assets/slides/20220203_AbsolventenseminarWS21_22.pdf)]
