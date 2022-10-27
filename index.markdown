@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Oct. 2022]** I handed in my thesis, titled: "Non-linear reduced order modeling for transport dominated fluid systems" [[PDF](https://tubcloud.tu-berlin.de/s/zbb4tSxYedQbXrw)]
 - **[Sept. 2022]** Meet me at the [MORE](https://more.sciencesconf.org) poster session [[Poster](https://Philipp137.github.io/assets/poster/Poster_KoellermeierKrahKusch.pdf)]
 - **[Aug. 2022]** New article on ArXiv: "Crystalline phases at finite winding densities in a quantum link ladder" [[PDF](https://arxiv.org/pdf/2208.01964.pdf)] 
 - **[May  2022]** Submittion to the [MORE](https://more.sciencesconf.org/) conference has been accepted 
@@ -89,6 +90,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 <div align ="center">
 <strong>Thesis Progress</strong>
 <br>
-<progress value="95" max="100">95 %</progress>
-
+<progress value="99" max="100">95 %</progress>
+<strong>[done!](https://tubcloud.tu-berlin.de/s/zbb4tSxYedQbXrw)</strong>
 </div>
