@@ -91,5 +91,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 <strong>Thesis Progress</strong>
 <br>
 <progress value="99" max="100">95 %</progress>
-<strong>[done!](https://tubcloud.tu-berlin.de/s/zbb4tSxYedQbXrw)</strong>
+<br>
+[done!](https://tubcloud.tu-berlin.de/s/zbb4tSxYedQbXrw)
 </div>
