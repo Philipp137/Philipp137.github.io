@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Nov. 2022]** Research visit in Marseille at the ["Centre de Mathématiques et d'Informatique"](http://www.i2m.univ-amu.fr/en/home/) till end of the year!
 - **[Oct. 2022]** I handed in my thesis, titled: "Non-linear reduced order modeling for transport dominated fluid systems" [[PDF](https://tubcloud.tu-berlin.de/s/zbb4tSxYedQbXrw)]
 - **[Sept. 2022]** Meet me at the [MORE](https://more.sciencesconf.org) poster session [[Poster](https://Philipp137.github.io/assets/poster/Poster_KoellermeierKrahKusch.pdf)]
 - **[Aug. 2022]** New article on ArXiv: "Crystalline phases at finite winding densities in a quantum link ladder" [[PDF](https://arxiv.org/pdf/2208.01964.pdf)] 
@@ -27,7 +28,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
                   [[Slides](https://Philipp137.github.io/assets/slides/20220203_AbsolventenseminarWS21_22.pdf)]
 - **[Jan. 2022]** Discussion Contribution for MATHMOD2022 was accepted [[PDF](https://hal.archives-ouvertes.fr/hal-03396325/document)]
 - **[Dec. 2021]** Our wavelet adaptive POD paper was accepted in ACOM [[Link](https://link.springer.com/article/10.1007/s10444-021-09922-2)]
-- **[Dec. 2021]** Submitted "Supervised Learning for Multi Zone Sound Field Reproduction under Harsh Environmental Conditions" together with my master student Henry Sallandt and colleague Mathias Lemke
 
 ## Publications
 
