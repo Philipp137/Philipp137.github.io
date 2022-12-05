@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Dec. 2022]** My PhD viva takes place on the 13.12, 16h00 at Ma 415 in TU-Berlin [[INFO](https://Philipp137.github.io/assets/other/invite_PhD_Krah.pdf)]
 - **[Nov. 2022]** Research visit in Marseille at the ["Centre de Mathématiques et d'Informatique"](http://www.i2m.univ-amu.fr/en/home/) till end of the year!
 - **[Oct. 2022]** I handed in my thesis, titled: "Non-linear reduced order modeling for transport dominated fluid systems" [[PDF](https://tubcloud.tu-berlin.de/s/zbb4tSxYedQbXrw)]
 - **[Sept. 2022]** Meet me at the [MORE](https://more.sciencesconf.org) poster session [[Poster](https://Philipp137.github.io/assets/poster/Poster_KoellermeierKrahKusch.pdf)]
