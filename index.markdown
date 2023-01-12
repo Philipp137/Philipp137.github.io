@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a physicist located in Berlin, interested in various fields of mathematical physics and numerical analysis. 
+I am a physicist located in Marseille, interested in various fields of mathematical physics and numerical analysis. 
 I like to dive with one breath and make music with my friends.
 
 ### Characteristics: 
@@ -28,7 +28,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Feb. 2022]** Seminar Talk at the [Absolventenseminar NumDiff](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v_menue/vortraege/absolventen_seminar/absolventinnen_seminar_ss_21/)  [[Code](https://github.com/Philipp137/FrontTransportReduction)]
                   [[Slides](https://Philipp137.github.io/assets/slides/20220203_AbsolventenseminarWS21_22.pdf)]
 - **[Jan. 2022]** Discussion Contribution for MATHMOD2022 was accepted [[PDF](https://hal.archives-ouvertes.fr/hal-03396325/document)]
-- **[Dec. 2021]** Our wavelet adaptive POD paper was accepted in ACOM [[Link](https://link.springer.com/article/10.1007/s10444-021-09922-2)]
+
 
 ## Publications
 
