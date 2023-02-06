@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Feb. 2023]** New exciting research: "Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation" [[PDF](https://arxiv.org/pdf/2302.01391.pdf)] [[code](https://github.com/JonasKu/Publication-Split-conservative-model-order-reduction-for-hyperbolic-shallow-water-moment-equations)]
 - **[Dec. 2022]** My PhD viva takes place on the 13.12, 16h00 at Ma 415 in TU-Berlin [[INFO](https://Philipp137.github.io/assets/other/invite_PhD_Krah.pdf)]
 - **[Nov. 2022]** Research visit in Marseille at the ["Centre de Mathématiques et d'Informatique"](http://www.i2m.univ-amu.fr/en/home/) till end of the year!
 - **[Oct. 2022]** I handed in my thesis, titled: "Non-linear reduced order modeling for transport dominated fluid systems" [[PDF](https://tubcloud.tu-berlin.de/s/zbb4tSxYedQbXrw)]
@@ -25,12 +26,16 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Aug. 2022]** New article on ArXiv: "Crystalline phases at finite winding densities in a quantum link ladder" [[PDF](https://arxiv.org/pdf/2208.01964.pdf)] 
 - **[May  2022]** Submittion to the [MORE](https://more.sciencesconf.org/) conference has been accepted 
 - **[Feb. 2022]** New article: "Front Transport Reduction for Complex Moving Fronts" online [[PDF](https://arxiv.org/abs/2202.08208)]
-- **[Feb. 2022]** Seminar Talk at the [Absolventenseminar NumDiff](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v_menue/vortraege/absolventen_seminar/absolventinnen_seminar_ss_21/)  [[Code](https://github.com/Philipp137/FrontTransportReduction)]
-                  [[Slides](https://Philipp137.github.io/assets/slides/20220203_AbsolventenseminarWS21_22.pdf)]
-- **[Jan. 2022]** Discussion Contribution for MATHMOD2022 was accepted [[PDF](https://hal.archives-ouvertes.fr/hal-03396325/document)]
-
 
 ## Publications
+
+- **Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation**
+  <br>
+  Julian Koellermeier, Philipp Krah, Jonas Kusch
+  <br>
+  ArXiv:2302.01391v1
+  <br>
+  [[PDF](https://arxiv.org/abs/2302.01391)][[code](https://github.com/JonasKu/Publication-Split-conservative-model-order-reduction-for-hyperbolic-shallow-water-moment-equations)]
 
 - **Crystalline Phases at Finite Winding Densities in a Quantum Link Ladder**
   <br>
