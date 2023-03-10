@@ -93,10 +93,3 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   [[PDF](https://www.epj-conferences.org/articles/epjconf/pdf/2018/10/epjconf_lattice2018_14024.pdf)]
 
-<div align ="center">
-<strong>Thesis Progress</strong>
-<br>
-<progress value="99" max="100">95 %</progress>
-<br>
-done!
-</div>
