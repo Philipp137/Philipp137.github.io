@@ -35,7 +35,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Phys. Rev. D 107, L031504 (2023)
   <br>
-  [[PDF](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L031504)] 
+  [[PDF](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L031504)][[Code](https://github.com/Philipp137/SquareIce)]
 
 - **Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation**
   <br>
@@ -51,7 +51,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Preprint arXiv:2202.08208
   <br>
-  [[PDF](https://arxiv.org/abs/2202.08208)] [[Code](https://github.com/Philipp137/FrontTransportReduction)] 
+  [[PDF](https://arxiv.org/abs/2202.08208)][[Code](https://github.com/Philipp137/FrontTransportReduction)] 
 
 - **Wavelet Adaptive Proper Orthogonal Decomposition for Large Scale Flow Data**
   <br>
@@ -59,7 +59,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Adv Comput Math 48, 10 (2022).
   <br>
-  [[PDF](https://arxiv.org/pdf/2011.05016.pdf)] [[Code](https://github.com/adaptive-cfd/WABBIT)] 
+  [[PDF](https://arxiv.org/pdf/2011.05016.pdf)][[Code](https://github.com/adaptive-cfd/WABBIT)] 
 
 - **Supervised Learning for Multi Zone Sound Field Reproduction under Harsh Environmental Conditions**
   <br>
@@ -67,7 +67,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Preprint arXiv:2112.07349, under review
   <br>
-  [[PDF](https://arxiv.org/pdf/2112.07349.pdf)] [[Code](https://github.com/henrysallandt/Supervised-Learning-for-Multi-Zone-Sound-Field-Reproduction-under-Harsh-Environmental-Conditions/)]
+  [[PDF](https://arxiv.org/pdf/2112.07349.pdf)][[Code](https://github.com/henrysallandt/Supervised-Learning-for-Multi-Zone-Sound-Field-Reproduction-under-Harsh-Environmental-Conditions/)]
 
 - **Phases at finite winding number of an Abelian lattice gauge theory**
   <br>
@@ -83,7 +83,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Numerical Mathematics and Advanced Applications ENUMATH 2019
   <br>
-  [[PDF](https://arxiv.org/pdf/1912.03004.pdf)]
+  [[PDF](https://arxiv.org/pdf/1912.03004.pdf)][[Code](https://github.com/Philipp137/FrontTransportReduction)] 
 
 - **SU(3) Yang Mills theory at small distances and fine lattices**
   <br>
