@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a physicist located in Marseille, interested in various fields of mathematical physics and numerical analysis. 
+I am a computational physicist located in Marseille, interested in various fields of mathematical physics and numerical analysis. 
 I like to dive with one breath and make music with my friends.
 
 ### Characteristics: 
@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Feb. 2023]** Quantum Links on a ladder? Published in PRD [[Article](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L031504)]
 - **[Feb. 2023]** New exciting research: "Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation" [[PDF](https://arxiv.org/pdf/2302.01391.pdf)] 
 - **[Dec. 2022]** My PhD viva takes place on the 13.12, 16h00 at Ma 415 in TU-Berlin [[INFO](https://Philipp137.github.io/assets/other/invite_PhD_Krah.pdf)]
 - **[Nov. 2022]** Research visit in Marseille at the ["Centre de Mathématiques et d'Informatique"](http://www.i2m.univ-amu.fr/en/home/) till end of the year!
@@ -25,9 +26,16 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Sept. 2022]** Meet me at the [MORE](https://more.sciencesconf.org) poster session [[Poster](https://Philipp137.github.io/assets/poster/Poster_KoellermeierKrahKusch.pdf)]
 - **[Aug. 2022]** New article on ArXiv: "Crystalline phases at finite winding densities in a quantum link ladder" [[PDF](https://arxiv.org/pdf/2208.01964.pdf)] 
 - **[May  2022]** Submittion to the [MORE](https://more.sciencesconf.org/) conference has been accepted 
-- **[Feb. 2022]** New article: "Front Transport Reduction for Complex Moving Fronts" online [[PDF](https://arxiv.org/abs/2202.08208)]
 
 ## Publications
+
+- **Crystalline Phases at Finite Winding Densities in a Quantum Link Ladder**
+  <br>
+  Paolo Stornati, Debasish Banerjee, Karl Jansen, Philipp Krah
+  <br>
+  Phys. Rev. D 107, L031504 (2023)
+  <br>
+  [[PDF](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L031504)]
 
 - **Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation**
   <br>
@@ -36,14 +44,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   ArXiv:2302.01391v1
   <br>
   [[PDF](https://arxiv.org/abs/2302.01391)][[Code](https://github.com/JonasKu/Publication-Split-conservative-model-order-reduction-for-hyperbolic-shallow-water-moment-equations)]
-
-- **Crystalline Phases at Finite Winding Densities in a Quantum Link Ladder**
-  <br>
-  Paolo Stornati, Debasish Banerjee, Karl Jansen, Philipp Krah
-  <br>
-  ArXiv:2208.01964v1
-  <br>
-  [[PDF](https://arxiv.org/pdf/2208.01964.pdf)]
 
 - **Front Transport Reduction for Complex Moving Fronts**
   <br>
