@@ -18,7 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
-- **[Feb. 2023]** Quantum Links on a ladder? Published in PRD [[Article](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L031504)]
+- **[Feb. 2023]** Quantum links on a ladder? Published in PRD [[PDF](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L031504)]
 - **[Feb. 2023]** New exciting research: "Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation" [[PDF](https://arxiv.org/pdf/2302.01391.pdf)] 
 - **[Dec. 2022]** My PhD viva takes place on the 13.12, 16h00 at Ma 415 in TU-Berlin [[INFO](https://Philipp137.github.io/assets/other/invite_PhD_Krah.pdf)]
 - **[Nov. 2022]** Research visit in Marseille at the ["Centre de Mathématiques et d'Informatique"](http://www.i2m.univ-amu.fr/en/home/) till end of the year!
@@ -35,7 +35,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Phys. Rev. D 107, L031504 (2023)
   <br>
-  [[PDF](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L031504)]
+  [[PDF](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L031504)] 
 
 - **Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation**
   <br>
