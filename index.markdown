@@ -19,6 +19,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 ## News
 
 - **[May 2023]** Understanding the spread of fires using neural networks and MOR! Paper submitted! [[PDF](https://arxiv.org/pdf/2304.14872.pdf)]
+- **[Mar. 2023]** I joint the ANR project [Project ANR-20-CE46-0010](https://anr.fr/Projet-ANR-20-CE46-0010). Checkout the new website I made for the project [[website](https://characteristicmappingmethod.github.io/)]
 - **[Apr. 2023]** Front Transport Reduction has been accepted for publication in J. Sci. Comput.! Last milestone of my PhD!
 - **[Feb. 2023]** Quantum links on a ladder? Published in PRD [[PDF](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L031504)]
 - **[Feb. 2023]** New exciting research: "Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation" [[PDF](https://arxiv.org/pdf/2302.01391.pdf)] 
@@ -27,7 +28,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Oct. 2022]** I handed in my thesis, titled: "Non-linear reduced order modeling for transport dominated fluid systems" [[PDF](https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/ed4a9828-2563-442a-8062-84f7989975ce/content)]
 - **[Sept. 2022]** Meet me at the [MORE](https://more.sciencesconf.org) poster session [[Poster](https://Philipp137.github.io/assets/poster/Poster_KoellermeierKrahKusch.pdf)]
 - **[Aug. 2022]** New article on ArXiv: "Crystalline phases at finite winding densities in a quantum link ladder" [[PDF](https://arxiv.org/pdf/2208.01964.pdf)] 
-- **[May  2022]** Submittion to the [MORE](https://more.sciencesconf.org/) conference has been accepted 
 
 ## Publications
 
