@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[May 2023]** Understanding the spread of fires using neural networks and MOR! Paper submitted! [[PDF](https://arxiv.org/pdf/2304.14872.pdf)]
 - **[Apr. 2023]** Front Transport Reduction has been accepted for publication in J. Sci. Comput.! Last milestone of my PhD!
 - **[Feb. 2023]** Quantum links on a ladder? Published in PRD [[PDF](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L031504)]
 - **[Feb. 2023]** New exciting research: "Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation" [[PDF](https://arxiv.org/pdf/2302.01391.pdf)] 
@@ -29,6 +30,15 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[May  2022]** Submittion to the [MORE](https://more.sciencesconf.org/) conference has been accepted 
 
 ## Publications
+
+- **Parametric model order reduction for a wildland fire model via the shifted POD based deep learning method**
+  <br>
+  Shubhaditya Burela, Philipp Krah, Julius Reiss
+  <br>
+  Preprint arXiv:2304.14872
+  <br>
+  [[PDF](https://arxiv.org/abs/2304.14872)][[Code](https://github.com/MOR-transport/sPOD-NN-paper)]
+
 
 - **Crystalline Phases at Finite Winding Densities in a Quantum Link Ladder**
   <br>
@@ -42,7 +52,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Julian Koellermeier, Philipp Krah, Jonas Kusch
   <br>
-  ArXiv:2302.01391v1
+  Preprint arXiv:2302.01391v1
   <br>
   [[PDF](https://arxiv.org/abs/2302.01391)][[Code](https://github.com/JonasKu/Publication-Split-conservative-model-order-reduction-for-hyperbolic-shallow-water-moment-equations)]
 
