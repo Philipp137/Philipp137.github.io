@@ -60,9 +60,9 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Philipp Krah, Steffen Büchholz, Matthias Häringer, Julius Reiss
   <br>
-  Preprint arXiv:2202.08208, accepted for publication in J. Sci. Comput.
+   Sci Comput 96, 28 (2023)
   <br>
-  [[PDF](https://arxiv.org/abs/2202.08208)][[Code](https://github.com/Philipp137/FrontTransportReduction)] 
+  [[PDF](https://link.springer.com/article/10.1007/s10915-023-02210-9)][[Code](https://github.com/MOR-transport/FrontTransportReduction)] 
 
 - **Wavelet Adaptive Proper Orthogonal Decomposition for Large Scale Flow Data**
   <br>
