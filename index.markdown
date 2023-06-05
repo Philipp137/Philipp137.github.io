@@ -62,7 +62,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
    Sci Comput 96, 28 (2023)
   <br>
-  [[PDF](https://link.springer.com/content/pdf/10.1007/s10915-023-02210-9.pdf)][[Code](https://github.com/MOR-transport/FrontTransportReduction)] 
+  [[PDF](https://rdcu.be/ddHh4)][[Code](https://github.com/MOR-transport/FrontTransportReduction)] 
 
 - **Wavelet Adaptive Proper Orthogonal Decomposition for Large Scale Flow Data**
   <br>
