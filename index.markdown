@@ -62,7 +62,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
    Sci Comput 96, 28 (2023)
   <br>
-  [[PDF](https://link.springer.com/article/10.1007/s10915-023-02210-9)][[Code](https://github.com/MOR-transport/FrontTransportReduction)] 
+  [[PDF](https://link.springer.com/content/pdf/10.1007/s10915-023-02210-9.pdf)][[Code](https://github.com/MOR-transport/FrontTransportReduction)] 
 
 - **Wavelet Adaptive Proper Orthogonal Decomposition for Large Scale Flow Data**
   <br>
@@ -70,7 +70,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Adv Comput Math 48, 10 (2022).
   <br>
-  [[PDF](https://arxiv.org/pdf/2011.05016.pdf)][[Code](https://github.com/adaptive-cfd/WABBIT)] 
+  [[PDF](https://link.springer.com/content/pdf/10.1007/s10444-021-09922-2.pdf)][[Code](https://github.com/adaptive-cfd/WABBIT)] 
 
 - **Supervised Learning for Multi Zone Sound Field Reproduction under Harsh Environmental Conditions**
   <br>
@@ -94,7 +94,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Numerical Mathematics and Advanced Applications ENUMATH 2019
   <br>
-  [[PDF](https://arxiv.org/pdf/1912.03004.pdf)][[Code](https://github.com/Philipp137/FrontTransportReduction)] 
+  [[PDF](https://link.springer.com/content/pdf/10.1007/978-3-030-55874-1_79.pdf)][[Code](https://github.com/Philipp137/FrontTransportReduction)] 
 
 - **SU(3) Yang Mills theory at small distances and fine lattices**
   <br>
