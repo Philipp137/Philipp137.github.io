@@ -18,9 +18,9 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
-- **[Juni 2023]** Presenting my current work at [ITER International School](https://iis2023.sciencesconf.org/) poster session [[Poster1](https://Philipp137.github.io/assets/poster/20230628_Poster_KrahYinBergmannNaveSchneider.pdf),[Poster2](https://Philipp137.github.io/assets/poster/20230628_Poster_KoellermeierKrah.pdf)]
+- **[June 2023]** Presenting my current work at [ITER International School](https://iis2023.sciencesconf.org/) poster session [[Poster1](https://Philipp137.github.io/assets/poster/20230628_Poster_KrahYinBergmannNaveSchneider.pdf),[Poster2](https://Philipp137.github.io/assets/poster/20230628_Poster_KoellermeierKrah.pdf)]
 - **[May 2023]** Understanding the spread of fires using neural networks and MOR! Paper submitted! [[PDF](https://arxiv.org/pdf/2304.14872.pdf)]
-- **[Mar. 2023]** I joint the ANR project [Project ANR-20-CE46-0010](https://anr.fr/Projet-ANR-20-CE46-0010). Checkout the new website I made for the project [[website](https://characteristicmappingmethod.github.io/)]
+- **[Mar. 2023]** I joined the ANR project [Project ANR-20-CE46-0010](https://anr.fr/Projet-ANR-20-CE46-0010). Checkout the new website I made for the project [[website](https://characteristicmappingmethod.github.io/)]
 - **[Apr. 2023]** Front Transport Reduction has been accepted for publication in J. Sci. Comput.! Last milestone of my PhD!
 - **[Feb. 2023]** Quantum links on a ladder? Published in PRD [[PDF](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L031504)]
 - **[Feb. 2023]** New exciting research: "Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation" [[PDF](https://arxiv.org/pdf/2302.01391.pdf)] 
