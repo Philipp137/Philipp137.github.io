@@ -12,9 +12,9 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 ## Research Interests
 
 - **Numerical Methods for PDEs:** adaptive multiresolution, wavelets, volume penalization, conservation laws, high performance computing
-- **Model Order Reduction:** shifted proper orthogonal decomposition, front transport reduction, hyper-reduction, transport-dominated systems
+- **Model Order Reduction:** shifted proper orthogonal decomposition, front transport reduction, hyper-reduction, transport-dominated systems, low-rank approxiamtion
 - **Machine Learning and Optimization:** physics guided learning, alternating direction methods, matrix product states
-- **Physics:** quantum link models, quantum field theory, fluid flows
+- **Physics:** quantum link models, quantum field theory, fluid flows, plasma flows
 
 ## News
 
