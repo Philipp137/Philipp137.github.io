@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Oct. 2023]** New preprint is out! The article addresses the identification of intrinsic structures in rarefied gases using neural networks [[PDF](http://arxiv.org/abs/2310.04318)]
 - **[Sept. 2023]** Invited for a research visit from 12.November to 12.December in Montreal, McGill University
 - **[Aug. 2023]** Excited to welcome Beata Zorawski from TU Berlin to our team for a 6-month Erasmus+ internship!
 - **[June 2023]** Presenting my current work at [ITER International School](https://iis2023.sciencesconf.org/) poster session [[Poster1](https://Philipp137.github.io/assets/poster/20230628_Poster_KrahYinBergmannNaveSchneider.pdf),[Poster2](https://Philipp137.github.io/assets/poster/20230628_Poster_KoellermeierKrah.pdf)]
@@ -28,9 +29,17 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Feb. 2023]** New exciting research: "Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation" [[PDF](https://arxiv.org/pdf/2302.01391.pdf)] 
 - **[Dec. 2022]** My PhD viva takes place on the 13.12, 16h00 at Ma 415 in TU-Berlin [[INFO](https://Philipp137.github.io/assets/other/invite_PhD_Krah.pdf)]
 - **[Nov. 2022]** Research visit in Marseille at the ["Centre de Mathématiques et d'Informatique"](http://www.i2m.univ-amu.fr/en/home/) till end of the year!
-- **[Oct. 2022]** I handed in my thesis, titled: "Non-linear reduced order modeling for transport dominated fluid systems" [[PDF](https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/ed4a9828-2563-442a-8062-84f7989975ce/content)]
 
 ## Publications
+
+
+- **Model Order Reduction for the 1D Boltzmann-BGK Equation: Identifying Intrinsic Variables Using Neural Networks**
+  <br>
+  Julian Koellermeier, Philipp Krah, Julius Reiss, Zachary Schellin
+  <br>
+  Preprint  arXiv:2310.04318
+  <br>
+  [[PDF](https://arxiv.org/pdf/2310.04318.pdf)]
 
 - **Parametric model order reduction for a wildland fire model via the shifted POD based deep learning method**
   <br>
