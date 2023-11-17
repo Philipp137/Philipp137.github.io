@@ -38,7 +38,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Preprint  arXiv:2311.09379
   <br>
-  [[PDF](https://arxiv.org/pdf/2311.09379.pdf)][[Code](https://github.com/orgs/CharacteristicMappingMethod/repositories)
+  [[PDF](https://arxiv.org/pdf/2311.09379.pdf)][[Code](https://github.com/orgs/CharacteristicMappingMethod/repositories)]
 
 - **Model Order Reduction for the 1D Boltzmann-BGK Equation: Identifying Intrinsic Variables Using Neural Networks**
   <br>
