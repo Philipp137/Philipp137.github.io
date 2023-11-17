@@ -18,7 +18,8 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
-- **[Oct. 2023]** New preprint is out! The article addresses the identification of intrinsic structures in rarefied gases using neural networks [[PDF](http://arxiv.org/abs/2310.04318)]
+- **[Nov. 2023]** [PLASMA!!!](https://open.spotify.com/search/plasma) A song from Dr. Gabba I like and also a new preprint that came out [[Preprint](https://arxiv.org/pdf/2311.09379)]
+- **[Oct. 2023]** New preprint is out! The article addresses the identification of intrinsic structures in rarefied gases using neural networks [[Preprint](http://arxiv.org/abs/2310.04318)]
 - **[Sept. 2023]** Invited for a research visit from 12.November to 12.December in Montreal, McGill University
 - **[Aug. 2023]** Excited to welcome Beata Zorawski from TU Berlin to our team for a 6-month Erasmus+ internship!
 - **[June 2023]** Presenting my current work at [ITER International School](https://iis2023.sciencesconf.org/) poster session [[Poster1](https://Philipp137.github.io/assets/poster/20230628_Poster_KrahYinBergmannNaveSchneider.pdf),[Poster2](https://Philipp137.github.io/assets/poster/20230628_Poster_KoellermeierKrah.pdf)]
@@ -28,10 +29,16 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Feb. 2023]** Quantum links on a ladder? Published in PRD [[PDF](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L031504)]
 - **[Feb. 2023]** New exciting research: "Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation" [[PDF](https://arxiv.org/pdf/2302.01391.pdf)] 
 - **[Dec. 2022]** My PhD viva takes place on the 13.12, 16h00 at Ma 415 in TU-Berlin [[INFO](https://Philipp137.github.io/assets/other/invite_PhD_Krah.pdf)]
-- **[Nov. 2022]** Research visit in Marseille at the ["Centre de Mathématiques et d'Informatique"](http://www.i2m.univ-amu.fr/en/home/) till end of the year!
 
 ## Publications
 
+- **A Characteristic Mapping Method for Vlasov-Poisson with Extreme Resolution Properties**
+  <br>
+  Philipp Krah, Xi-Yuan Yin, Julius Bergmann, Jean-Christophe Nave, Kai Schneider
+  <br>
+  Preprint  arXiv:2311.09379
+  <br>
+  [[PDF](https://arxiv.org/pdf/2311.09379.pdf)][[Code](https://github.com/orgs/CharacteristicMappingMethod/repositories)
 
 - **Model Order Reduction for the 1D Boltzmann-BGK Equation: Identifying Intrinsic Variables Using Neural Networks**
   <br>
