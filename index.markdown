@@ -18,7 +18,8 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
-- **[Nov. 2023]** [PLASMA!!!](https://open.spotify.com/search/plasma) is a song from Dr. Gabba I like and also a new preprint that came out [[Preprint](https://arxiv.org/pdf/2311.09379)]
+- **[Nov. 2023]** [PLASMA!!!](https://open.spotify.com/search/plasma) is a song from Dr. Gabba I like and also a new preprint that came out [[Preprint](https://arxiv.org/pdf/2311.09379)][[Video](https://amubox.univ-amu.fr/s/mF37n9WDrroCjWi)]
+
 - **[Oct. 2023]** New preprint is out! The article addresses the identification of intrinsic structures in rarefied gases using neural networks [[Preprint](http://arxiv.org/abs/2310.04318)]
 - **[Sept. 2023]** Invited for a research visit from 12.November to 12.December in Montreal, McGill University
 - **[Aug. 2023]** Excited to welcome Beata Zorawski from TU Berlin to our team for a 6-month Erasmus+ internship!
@@ -38,7 +39,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Preprint  arXiv:2311.09379
   <br>
-  [[PDF](https://arxiv.org/pdf/2311.09379.pdf)][[Code](https://github.com/orgs/CharacteristicMappingMethod/repositories)]
+  [[PDF](https://arxiv.org/pdf/2311.09379.pdf)][[Code](https://github.com/orgs/CharacteristicMappingMethod/repositories)][[Video](https://amubox.univ-amu.fr/s/mF37n9WDrroCjWi)]
 
 - **Model Order Reduction for the 1D Boltzmann-BGK Equation: Identifying Intrinsic Variables Using Neural Networks**
   <br>
