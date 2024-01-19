@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Jan. 2024]** Paper "MOR for the 1D Boltzmann-BGK Equation" accepted for publication in Microfluidics and Nanofluidics!
 - **[Nov. 2023]** [PLASMA](https://open.spotify.com/search/plasma) is a song from Dr. Gabba I like and also a new preprint that came out [[Preprint](https://arxiv.org/pdf/2311.09379)][[Video](https://drive.google.com/file/d/1WoEf9f8vx-K5f-85nAp8ua2T0wNcfkwW/view?usp=sharing)]
 - **[Oct. 2023]** New preprint is out! The article addresses the identification of intrinsic structures in rarefied gases using neural networks [[Preprint](http://arxiv.org/abs/2310.04318)]
 - **[Sept. 2023]** Invited for a research visit from 12.November to 12.December in Montreal, McGill University
@@ -44,7 +45,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Julian Koellermeier, Philipp Krah, Julius Reiss, Zachary Schellin
   <br>
-  Preprint  arXiv:2310.04318
+  Accepted for publication in Microfluidics and Nanofluidics
   <br>
   [[PDF](https://arxiv.org/pdf/2310.04318.pdf)]
 
