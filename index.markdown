@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Feb. 2024]** Invited to [ECCOMAS](https://eccomas2024.org), 3th-7th of June, minisymposium on computational kinetic theory [[Abstract](https://Philipp137.github.io/assets/other/ECOMAS.pdf)]
 - **[Jan. 2024]** Paper "MOR for the 1D Boltzmann-BGK Equation" accepted for publication in Microfluidics and Nanofluidics!
 - **[Nov. 2023]** [PLASMA](https://open.spotify.com/search/plasma) is a song from Dr. Gabba I like and also a new preprint that came out [[Preprint](https://arxiv.org/pdf/2311.09379)][[Video](https://drive.google.com/file/d/1WoEf9f8vx-K5f-85nAp8ua2T0wNcfkwW/view?usp=sharing)]
 - **[Oct. 2023]** New preprint is out! The article addresses the identification of intrinsic structures in rarefied gases using neural networks [[Preprint](http://arxiv.org/abs/2310.04318)]
