@@ -47,9 +47,9 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Julian Koellermeier, Philipp Krah, Julius Reiss, Zachary Schellin
   <br>
-  Accepted for publication in Microfluidics and Nanofluidics
+  Microfluid Nanofluid 28, 16 (2024)
   <br>
-  [[PDF](https://arxiv.org/pdf/2310.04318.pdf)]
+  [[PDF](https://doi.org/10.1007/s10404-024-02711-5)][[Arxiv](https://arxiv.org/pdf/2310.04318.pdf)]
 
 - **Parametric model order reduction for a wildland fire model via the shifted POD based deep learning method**
   <br>
