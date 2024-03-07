@@ -9,7 +9,7 @@ description: Computational physicist how loves cats.
 keywords: Computational Physics, Numerical Analysis, Model Order Reduction, Data Science
 google_scholar: https://scholar.google.com/citations?user=FSv1I7gAAAAJ&hl=de
 github_link: https://github.com/Philipp137
-cv_link: assets/other/CV_PhilippKRAH_March2024.pdf
+  #cv_link: ./assets/other/CV_PhilippKRAH_March2024.pdf
 avatar: ./assets/img/bild.jpeg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
