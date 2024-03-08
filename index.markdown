@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Mar. 2024]** My first cooperation with the [signal team](https://www.i2m.univ-amu.fr/la-recherche/groupes-scientifiques/groupe-mathematiques-de-laleatoire-alea/equipe-signal-et-image-si/) of the Institut de Mathématiques de Marseille has led to this nice work [[PDF](https://arxiv.org/pdf/2403.04313.pdf)] 
 - **[Mar. 2024]** New co-authored article on impurity clustering in plasmas of Tokamaks [[Article](https://doi.org/10.1063/5.0178085)] 
 - **[Feb. 2024]** I will be giving a talk on kinetic plasma simulations, 14.05.2024 at [Séminaire Analyse Appliquée](https://www.i2m.univ-amu.fr/agenda/seminaires/analyse-appliquee-aa/) 
 - **[Feb. 2024]** Invited to [ECCOMAS](https://eccomas2024.org), 3th-7th of June, minisymposium on computational kinetic theory [[Abstract](https://Philipp137.github.io/assets/other/ECOMAS.pdf)]
@@ -31,6 +32,14 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Mar. 2023]** I joined the ANR project [Project ANR-20-CE46-0010](https://anr.fr/Projet-ANR-20-CE46-0010). Checkout the new website I made for the project [[website](https://characteristicmappingmethod.github.io/)]
 
 ## Publications
+
+- **A robust shifted proper orthogonal decomposition: Proximal methods for decomposing flows with multiple transports**
+  <br>
+  Philipp Krah, Arthur Marmin, Beata Zorawski, Julius Reiss, Kai Schneider
+  <br>
+  Preprint  arXiv:2403.04313
+  <br>
+  [[PDF](https://arxiv.org/abs/2403.04313)][Code coming soon]
 
 - **Synthesizing impurity clustering in the edge plasma of tokamaks using neural networks**
   <br>
