@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[May 2024]** I will be speaking about dynamic low rank approximation at the FRUMAM workshop "Low rank optimization", 31rst of May [[Link]](https://www.i2m.univ-amu.fr/seminaires_signal_apprentissage/Conf/Mai2024/#Div1)
 - **[Mar. 2024]** My first cooperation with the [signal team](https://www.i2m.univ-amu.fr/la-recherche/groupes-scientifiques/groupe-mathematiques-de-laleatoire-alea/equipe-signal-et-image-si/) of the Institut de Mathématiques de Marseille has led to this nice work [[PDF](https://arxiv.org/pdf/2403.04313.pdf)] 
 - **[Mar. 2024]** New co-authored article on impurity clustering in plasmas of Tokamaks [[Article](https://doi.org/10.1063/5.0178085)] 
 - **[Feb. 2024]** I will be giving a talk on kinetic plasma simulations, 14.05.2024 at [Séminaire Analyse Appliquée](https://www.i2m.univ-amu.fr/agenda/seminaires/analyse-appliquee-aa/) 
