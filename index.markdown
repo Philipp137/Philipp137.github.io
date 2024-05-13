@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[May 2024]** Vlasov-Poisson Article published in CiCP [[Article](https://doi.org/10.4208/cicp.OA-2024-0012)]
 - **[May 2024]** I will be speaking about dynamic low rank approximation at the FRUMAM workshop "Low rank optimization", 31rst of May [[Link]](https://www.i2m.univ-amu.fr/seminaires_signal_apprentissage/Conf/Mai2024/#Div1)
 - **[Mar. 2024]** My first cooperation with the [signal team](https://www.i2m.univ-amu.fr/la-recherche/groupes-scientifiques/groupe-mathematiques-de-laleatoire-alea/equipe-signal-et-image-si/) of the Institut de Mathématiques de Marseille has led to this nice work [[PDF](https://arxiv.org/pdf/2403.04313.pdf)] 
 - **[Mar. 2024]** New co-authored article on impurity clustering in plasmas of Tokamaks [[Article](https://doi.org/10.1063/5.0178085)] 
@@ -54,9 +55,9 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Philipp Krah, Xi-Yuan Yin, Julius Bergmann, Jean-Christophe Nave, Kai Schneider
   <br>
-  Preprint  arXiv:2311.09379
+  Commun. Comput. Phys., 35, pp. 905-937 (2024), arXiv:2311.09379
   <br>
-  [[PDF](https://arxiv.org/pdf/2311.09379.pdf)][[Code](https://github.com/orgs/CharacteristicMappingMethod/repositories)][[Video](https://drive.google.com/file/d/1WoEf9f8vx-K5f-85nAp8ua2T0wNcfkwW/view?usp=sharing)]
+  [[Article](https://doi.org/10.4208/cicp.OA-2024-0012)][[PDF](https://arxiv.org/pdf/2311.09379.pdf)][[Code](https://github.com/orgs/CharacteristicMappingMethod/repositories)][[Video](https://drive.google.com/file/d/1WoEf9f8vx-K5f-85nAp8ua2T0wNcfkwW/view?usp=sharing)]
 
 - **Model Order Reduction for the 1D Boltzmann-BGK Equation: Identifying Intrinsic Variables Using Neural Networks**
   <br>
