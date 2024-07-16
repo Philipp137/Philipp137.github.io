@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[July 2024]** Micro-macro model order reduction for shallow water flows published in ACOM: [[Article](https://doi.org/10.1007/s10444-024-10175-y)]
 - **[May 2024]** Vlasov-Poisson Article published in CiCP [[Article](https://doi.org/10.4208/cicp.OA-2024-0012)]
 - **[May 2024]** I will be speaking about dynamic low rank approximation at the FRUMAM workshop "Low rank optimization", 31rst of May [[Link]](https://www.i2m.univ-amu.fr/seminaires_signal_apprentissage/Conf/Mai2024/#Div1)
 - **[Mar. 2024]** My first cooperation with the [signal team](https://www.i2m.univ-amu.fr/la-recherche/groupes-scientifiques/groupe-mathematiques-de-laleatoire-alea/equipe-signal-et-image-si/) of the Institut de Mathématiques de Marseille has led to this nice work [[PDF](https://arxiv.org/pdf/2403.04313.pdf)] 
@@ -29,11 +30,16 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Oct. 2023]** New preprint is out! The article addresses the identification of intrinsic structures in rarefied gases using neural networks [[Preprint](http://arxiv.org/abs/2310.04318)]
 - **[Sept. 2023]** Invited for a research visit from 12.November to 12.December in Montreal, McGill University
 - **[Aug. 2023]** Excited to welcome Beata Zorawski from TU Berlin to our team for a 6-month Erasmus+ internship!
-- **[June 2023]** Presenting my current work at [ITER International School](https://iis2023.sciencesconf.org/) poster session [[Poster1](https://Philipp137.github.io/assets/poster/20230628_Poster_KrahYinBergmannNaveSchneider.pdf),[Poster2](https://Philipp137.github.io/assets/poster/20230628_Poster_KoellermeierKrah.pdf)]
-- **[May 2023]** Understanding the spread of fires using neural networks and MOR! Paper submitted! [[PDF](https://arxiv.org/pdf/2304.14872.pdf)]
-- **[Mar. 2023]** I joined the ANR project [Project ANR-20-CE46-0010](https://anr.fr/Projet-ANR-20-CE46-0010). Checkout the new website I made for the project [[website](https://characteristicmappingmethod.github.io/)]
 
 ## Publications
+
+- **Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation**
+  <br>
+  Julian Koellermeier, Philipp Krah, Jonas Kusch
+  <br>
+  Adv Comput Math 50, 76 (2024).
+  <br>
+  [[Article](https://doi.org/10.1007/s10444-024-10175-y)][[PDF](https://arxiv.org/pdf/2302.01391)][[Code](https://github.com/JonasKu/Publication-Split-conservative-model-order-reduction-for-hyperbolic-shallow-water-moment-equations)]
 
 - **A robust shifted proper orthogonal decomposition: Proximal methods for decomposing flows with multiple transports**
   <br>
@@ -83,14 +89,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   Phys. Rev. D 107, L031504 (2023)
   <br>
   [[PDF](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L031504)][[Code](https://github.com/Philipp137/SquareIce)]
-
-- **Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation**
-  <br>
-  Julian Koellermeier, Philipp Krah, Jonas Kusch
-  <br>
-  Preprint arXiv:2302.01391v1
-  <br>
-  [[PDF](https://arxiv.org/abs/2302.01391)][[Code](https://github.com/JonasKu/Publication-Split-conservative-model-order-reduction-for-hyperbolic-shallow-water-moment-equations)]
 
 - **Front Transport Reduction for Complex Moving Fronts**
   <br>
