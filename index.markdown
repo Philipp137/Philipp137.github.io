@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[July 2024]** Congrats to my master student Beata for her amazing work that let to this nice preprint: [[Preprint](https://arxiv.org/pdf/2407.17539)]
 - **[July 2024]** Micro-macro model order reduction for shallow water flows published in ACOM: [[Article](https://doi.org/10.1007/s10444-024-10175-y)]
 - **[May 2024]** Vlasov-Poisson Article published in CiCP [[Article](https://doi.org/10.4208/cicp.OA-2024-0012)]
 - **[May 2024]** I will be speaking about dynamic low rank approximation at the FRUMAM workshop "Low rank optimization", 31rst of May [[Link]](https://www.i2m.univ-amu.fr/seminaires_signal_apprentissage/Conf/Mai2024/#Div1)
@@ -33,6 +34,14 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## Publications
 
+- **Automated transport separation using the neural shifted proper orthogonal decomposition**
+  <br>
+  Beata Zorawski, Shubhaditya Burela, Philipp Krah, Arthur Marmin, Kai Schneider
+  <br>
+  Preprint  arXiv:2407.17539
+  <br>
+  [[Arxiv](https://arxiv.org/abs/2407.17539)][[Code](https://github.com/MOR-transport/automated_NsPOD)]
+
 - **Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation**
   <br>
   Julian Koellermeier, Philipp Krah, Jonas Kusch
@@ -47,7 +56,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Preprint  arXiv:2403.04313
   <br>
-  [[PDF](https://arxiv.org/abs/2403.04313)][Code coming soon]
+  [[Arxiv](https://arxiv.org/abs/2403.04313)][[Code](https://github.com/MOR-transport/sPOD)]
 
 - **Synthesizing impurity clustering in the edge plasma of tokamaks using neural networks**
   <br>
