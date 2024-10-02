@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Oct. 2024]** Beata, Arthur, Julius, Kai and myself have published our robust shifted POD paper in SIAM SISC!
 - **[July 2024]** Congrats to my master student Beata for her amazing work that let to this nice preprint: [[Preprint](https://arxiv.org/pdf/2407.17539)]
 - **[July 2024]** Micro-macro model order reduction for shallow water flows published in ACOM: [[Article](https://doi.org/10.1007/s10444-024-10175-y)]
 - **[May 2024]** Vlasov-Poisson Article published in CiCP [[Article](https://doi.org/10.4208/cicp.OA-2024-0012)]
@@ -29,8 +30,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Jan. 2024]** Paper "MOR for the 1D Boltzmann-BGK Equation" accepted for publication in Microfluidics and Nanofluidics!
 - **[Nov. 2023]** [PLASMA](https://open.spotify.com/search/plasma) is a song from Dr. Gabba I like and also a new preprint that came out [[Preprint](https://arxiv.org/pdf/2311.09379)][[Video](https://drive.google.com/file/d/1WoEf9f8vx-K5f-85nAp8ua2T0wNcfkwW/view?usp=sharing)]
 - **[Oct. 2023]** New preprint is out! The article addresses the identification of intrinsic structures in rarefied gases using neural networks [[Preprint](http://arxiv.org/abs/2310.04318)]
-- **[Sept. 2023]** Invited for a research visit from 12.November to 12.December in Montreal, McGill University
-- **[Aug. 2023]** Excited to welcome Beata Zorawski from TU Berlin to our team for a 6-month Erasmus+ internship!
 
 ## Publications
 
@@ -54,7 +53,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Philipp Krah, Arthur Marmin, Beata Zorawski, Julius Reiss, Kai Schneider
   <br>
-  Preprint  arXiv:2403.04313
+  Preprint  arXiv:2403.04313, accepted in SIAM SISC 1.October
   <br>
   [[Arxiv](https://arxiv.org/abs/2403.04313)][[Code](https://github.com/MOR-transport/sPOD)]
 
