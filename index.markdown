@@ -18,18 +18,20 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
-- **[Oct. 2024]** Beata, Arthur, Julius, Kai and myself have published our robust shifted POD paper in SIAM SISC!
-- **[July 2024]** Congrats to my master student Beata for her amazing work that let to this nice preprint: [[Preprint](https://arxiv.org/pdf/2407.17539)]
+- **[Oct. 2024]** New master thesis is available for computational physicists or applied mathematicians [[Proposal](https://Philipp137.github.io/assets/other/20241004_master_multiVP.pdf)]
+- **[Oct. 2024]** Beata, Arthur, Julius, Kai, and I have published our robust shifted POD paper in SIAM SISC!
+- **[July 2024]** Congrats to my master student Beata for her amazing work that led to this nice preprint: [[Preprint](https://arxiv.org/pdf/2407.17539)]
 - **[July 2024]** Micro-macro model order reduction for shallow water flows published in ACOM: [[Article](https://doi.org/10.1007/s10444-024-10175-y)]
 - **[May 2024]** Vlasov-Poisson Article published in CiCP [[Article](https://doi.org/10.4208/cicp.OA-2024-0012)]
-- **[May 2024]** I will be speaking about dynamic low rank approximation at the FRUMAM workshop "Low rank optimization", 31rst of May [[Link]](https://www.i2m.univ-amu.fr/seminaires_signal_apprentissage/Conf/Mai2024/#Div1)
+- **[May 2024]** I will be speaking about dynamic low rank approximation at the FRUMAM workshop "Low rank optimization", 31st of May [[Link](https://www.i2m.univ-amu.fr/seminaires_signal_apprentissage/Conf/Mai2024/#Div1)]
 - **[Mar. 2024]** My first cooperation with the [signal team](https://www.i2m.univ-amu.fr/la-recherche/groupes-scientifiques/groupe-mathematiques-de-laleatoire-alea/equipe-signal-et-image-si/) of the Institut de Mathématiques de Marseille has led to this nice work [[PDF](https://arxiv.org/pdf/2403.04313.pdf)] 
 - **[Mar. 2024]** New co-authored article on impurity clustering in plasmas of Tokamaks [[Article](https://doi.org/10.1063/5.0178085)] 
 - **[Feb. 2024]** I will be giving a talk on kinetic plasma simulations, 14.05.2024 at [Séminaire Analyse Appliquée](https://www.i2m.univ-amu.fr/agenda/seminaires/analyse-appliquee-aa/) 
-- **[Feb. 2024]** Invited to [ECCOMAS](https://eccomas2024.org), 3th-7th of June, minisymposium on computational kinetic theory [[Abstract](https://Philipp137.github.io/assets/other/ECOMAS.pdf)]
+- **[Feb. 2024]** Invited to [ECCOMAS](https://eccomas2024.org), 3rd-7th of June, minisymposium on computational kinetic theory [[Abstract](https://Philipp137.github.io/assets/other/ECOMAS.pdf)]
 - **[Jan. 2024]** Paper "MOR for the 1D Boltzmann-BGK Equation" accepted for publication in Microfluidics and Nanofluidics!
-- **[Nov. 2023]** [PLASMA](https://open.spotify.com/search/plasma) is a song from Dr. Gabba I like and also a new preprint that came out [[Preprint](https://arxiv.org/pdf/2311.09379)][[Video](https://drive.google.com/file/d/1WoEf9f8vx-K5f-85nAp8ua2T0wNcfkwW/view?usp=sharing)]
+- **[Nov. 2023]** [PLASMA](https://open.spotify.com/search/plasma) is a song from Dr. Gabba I like, and also a new preprint that came out [[Preprint](https://arxiv.org/pdf/2311.09379)][[Video](https://drive.google.com/file/d/1WoEf9f8vx-K5f-85nAp8ua2T0wNcfkwW/view?usp=sharing)]
 - **[Oct. 2023]** New preprint is out! The article addresses the identification of intrinsic structures in rarefied gases using neural networks [[Preprint](http://arxiv.org/abs/2310.04318)]
+
 
 ## Publications
 
