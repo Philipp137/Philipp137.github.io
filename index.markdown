@@ -18,7 +18,8 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
-- **[Oct. 2024]** New master thesis is available for computational physicists or applied mathematicians [[Proposal](https://Philipp137.github.io/assets/other/20241004_master_multiVP.pdf)]
+- **[Oct. 2024]** Two new master thesis available for computational physicists or applied mathematicians [[Proposal-1](https://Philipp137.github.io/assets/other/20241004_master_nsPOD.pdf)
+,[Proposal-2](https://Philipp137.github.io/assets/other/20241004_master_multiVP.pdf)]
 - **[Oct. 2024]** Beata, Arthur, Julius, Kai, and I have published our robust shifted POD paper in SIAM SISC!
 - **[July 2024]** Congrats to my master student Beata for her amazing work that led to this nice preprint: [[Preprint](https://arxiv.org/pdf/2407.17539)]
 - **[July 2024]** Micro-macro model order reduction for shallow water flows published in ACOM: [[Article](https://doi.org/10.1007/s10444-024-10175-y)]
