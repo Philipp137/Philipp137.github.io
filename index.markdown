@@ -18,6 +18,10 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+
+- **[Nov. 2024]** Giving a talk at the APS conference in Salt Lake City [[Abstract](https://meetings.aps.org/Meeting/DFD24/Session/A08.6)]
+- **[Nov. 2024]** I will be first speaker at NumKin2024 [[Program](https://www.ipp.mpg.de/5369239/program-numkin-2024)]
+,[Proposal-2](https://Philipp137.github.io/assets/other/20241004_master_multiVP.pdf)]
 - **[Oct. 2024]** Two new master thesis available for computational physicists or applied mathematicians [[Proposal-1](https://Philipp137.github.io/assets/other/20241004_master_nsPOD.pdf)
 ,[Proposal-2](https://Philipp137.github.io/assets/other/20241004_master_multiVP.pdf)]
 - **[Oct. 2024]** Beata, Arthur, Julius, Kai, and I have published our robust shifted POD paper in SIAM SISC!
