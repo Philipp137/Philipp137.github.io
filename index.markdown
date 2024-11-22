@@ -18,7 +18,8 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
-
+- **[Dec. 2024]** Heading back to Europe from the US by sailboat! Have a great end of the year!
+- **[Nov. 2024]** New preprint is out: Ideal MHD with Characteristic Mapping [[Article](http://dx.doi.org/10.48550/arXiv.2411.13772)]
 - **[Nov. 2024]** Giving a talk at the APS conference in Salt Lake City [[Abstract](https://meetings.aps.org/Meeting/DFD24/Session/A08.6)]
 - **[Nov. 2024]** I will be first speaker at NumKin2024 [[Program](https://www.ipp.mpg.de/5369239/program-numkin-2024)]
 - **[Oct. 2024]** Two new master thesis available for computational physicists or applied mathematicians [[Proposal-1](https://Philipp137.github.io/assets/other/20241004_master_nsPOD.pdf)
@@ -31,19 +32,23 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Mar. 2024]** My first cooperation with the [signal team](https://www.i2m.univ-amu.fr/la-recherche/groupes-scientifiques/groupe-mathematiques-de-laleatoire-alea/equipe-signal-et-image-si/) of the Institut de Mathématiques de Marseille has led to this nice work [[PDF](https://arxiv.org/pdf/2403.04313.pdf)] 
 - **[Mar. 2024]** New co-authored article on impurity clustering in plasmas of Tokamaks [[Article](https://doi.org/10.1063/5.0178085)] 
 - **[Feb. 2024]** I will be giving a talk on kinetic plasma simulations, 14.05.2024 at [Séminaire Analyse Appliquée](https://www.i2m.univ-amu.fr/agenda/seminaires/analyse-appliquee-aa/) 
-- **[Feb. 2024]** Invited to [ECCOMAS](https://eccomas2024.org), 3rd-7th of June, minisymposium on computational kinetic theory [[Abstract](https://Philipp137.github.io/assets/other/ECOMAS.pdf)]
-- **[Jan. 2024]** Paper "MOR for the 1D Boltzmann-BGK Equation" accepted for publication in Microfluidics and Nanofluidics!
-- **[Nov. 2023]** [PLASMA](https://open.spotify.com/search/plasma) is a song from Dr. Gabba I like, and also a new preprint that came out [[Preprint](https://arxiv.org/pdf/2311.09379)][[Video](https://drive.google.com/file/d/1WoEf9f8vx-K5f-85nAp8ua2T0wNcfkwW/view?usp=sharing)]
-- **[Oct. 2023]** New preprint is out! The article addresses the identification of intrinsic structures in rarefied gases using neural networks [[Preprint](http://arxiv.org/abs/2310.04318)]
 
 
 ## Publications
+
+- **A Characteristic Mapping Method with Source Terms: Applications to Ideal Magnetohydrodynamics**
+  <br>
+  X.-Y. Yin, P. Krah, J.-C. Nave, K. Schneider
+  <br>
+  Preprent arXiv:2411.13772 (2024)
+  <br>
+  [[PDF](https://arxiv.org/pdf/2411.13772)]
 
 - **Automated transport separation using the neural shifted proper orthogonal decomposition**
   <br>
   Beata Zorawski, Shubhaditya Burela, Philipp Krah, Arthur Marmin, Kai Schneider
   <br>
-  Preprint  arXiv:2407.17539
+  Preprint  arXiv:2407.17539 (2024)
   <br>
   [[Arxiv](https://arxiv.org/abs/2407.17539)][[Code](https://github.com/MOR-transport/automated_NsPOD)]
 
@@ -51,7 +56,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Julian Koellermeier, Philipp Krah, Jonas Kusch
   <br>
-  Adv Comput Math 50, 76 (2024).
+  Adv Comput Math 50, 76 (2024)
   <br>
   [[Article](https://doi.org/10.1007/s10444-024-10175-y)][[PDF](https://arxiv.org/pdf/2302.01391)][[Code](https://github.com/JonasKu/Publication-Split-conservative-model-order-reduction-for-hyperbolic-shallow-water-moment-equations)]
 
@@ -75,7 +80,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Philipp Krah, Xi-Yuan Yin, Julius Bergmann, Jean-Christophe Nave, Kai Schneider
   <br>
-  Commun. Comput. Phys., 35, pp. 905-937 (2024), arXiv:2311.09379
+  Commun. Comput. Phys., 35, pp. 905-937 (2024) 
   <br>
   [[Article](https://doi.org/10.4208/cicp.OA-2024-0012)][[PDF](https://arxiv.org/pdf/2311.09379.pdf)][[Code](https://github.com/orgs/CharacteristicMappingMethod/repositories)][[Video](https://drive.google.com/file/d/1WoEf9f8vx-K5f-85nAp8ua2T0wNcfkwW/view?usp=sharing)]
 
