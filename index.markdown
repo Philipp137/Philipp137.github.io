@@ -18,7 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
-- **[Dec. 2024]** Heading back to Europe from the US by sailboat! Have a great end of the year!
+- **[Jan. 2025]** I officially joint the theory and numerical simulation group of [CEA-IRFM](https://irfm.cea.fr/) in Cadarache france
 - **[Nov. 2024]** New preprint is out: Ideal MHD with Characteristic Mapping [[Article](http://dx.doi.org/10.48550/arXiv.2411.13772)]
 - **[Nov. 2024]** Giving a talk at the APS conference in Salt Lake City [[Abstract](https://meetings.aps.org/Meeting/DFD24/Session/A08.6)]
 - **[Nov. 2024]** I will be first speaker at NumKin2024 [[Program](https://www.ipp.mpg.de/5369239/program-numkin-2024)]
