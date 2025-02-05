@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Feb. 2025]** Our shifted POD deep learning paper was published in ACOM [[Article](http://dx.doi.org/10.1007/s10444-025-10220-4)]
 - **[Jan. 2025]** I officially joint the theory and numerical simulation group of [CEA-IRFM](https://irfm.cea.fr/) in Cadarache france
 - **[Nov. 2024]** New preprint is out: Ideal MHD with Characteristic Mapping [[Article](http://dx.doi.org/10.48550/arXiv.2411.13772)]
 - **[Nov. 2024]** Giving a talk at the APS conference in Salt Lake City [[Abstract](https://meetings.aps.org/Meeting/DFD24/Session/A08.6)]
@@ -36,6 +37,14 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## Publications
 
+- **Parametric model order reduction for a wildland fire model via the shifted POD based deep learning method**
+  <br>
+  Shubhaditya Burela, Philipp Krah, Julius Reiss
+  <br>
+  Adv Comput Math 51, 9 (2025)
+  <br>
+  [[Article](https://doi.org/10.1007/s10444-025-10220-4)][[PDF](https://arxiv.org/abs/2304.14872)][[Code](https://github.com/MOR-transport/sPOD-NN-paper)]
+
 - **A Characteristic Mapping Method with Source Terms: Applications to Ideal Magnetohydrodynamics**
   <br>
   X.-Y. Yin, P. Krah, J.-C. Nave, K. Schneider
@@ -48,9 +57,9 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Beata Zorawski, Shubhaditya Burela, Philipp Krah, Arthur Marmin, Kai Schneider
   <br>
-  Preprint  arXiv:2407.17539 (2024)
+  ECCOMAS 2024 
   <br>
-  [[Arxiv](https://arxiv.org/abs/2407.17539)][[Code](https://github.com/MOR-transport/automated_NsPOD)]
+  [[Article](https://www.scipedia.com/public/Krah_et_al_2024a)][[Code](https://github.com/MOR-transport/automated_NsPOD)]
 
 - **Macro-micro decomposition for consistent and conservative model order reduction of hyperbolic shallow water moment equations: A study using POD-Galerkin and dynamical low rank approximation**
   <br>
@@ -91,15 +100,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   Microfluid Nanofluid 28, 16 (2024)
   <br>
   [[PDF](https://doi.org/10.1007/s10404-024-02711-5)][[Arxiv](https://arxiv.org/pdf/2310.04318.pdf)]
-
-- **Parametric model order reduction for a wildland fire model via the shifted POD based deep learning method**
-  <br>
-  Shubhaditya Burela, Philipp Krah, Julius Reiss
-  <br>
-  Preprint arXiv:2304.14872
-  <br>
-  [[PDF](https://arxiv.org/abs/2304.14872)][[Code](https://github.com/MOR-transport/sPOD-NN-paper)]
-
 
 - **Crystalline Phases at Finite Winding Densities in a Quantum Link Ladder**
   <br>
