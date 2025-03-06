@@ -37,13 +37,22 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## Publications
 
+- **A robust shifted proper orthogonal decomposition: Proximal methods for decomposing flows with multiple transports**
+  <br>
+  Philipp Krah, Arthur Marmin, Beata Zorawski, Julius Reiss, Kai Schneider
+  <br>
+  SIAM J. Sci. Comput. 47 (2025) A633–A656
+  <br>
+  [[Article](https://doi.org/10.1137/24M164392X)][[PDF](https://arxiv.org/pdf/2403.04313)][[Code](https://github.com/MOR-transport/sPOD)]
+
+
 - **Parametric model order reduction for a wildland fire model via the shifted POD based deep learning method**
   <br>
   Shubhaditya Burela, Philipp Krah, Julius Reiss
   <br>
   Adv Comput Math 51, 9 (2025)
   <br>
-  [[Article](https://doi.org/10.1007/s10444-025-10220-4)][[PDF](https://arxiv.org/abs/2304.14872)][[Code](https://github.com/MOR-transport/sPOD-NN-paper)]
+  [[Article](https://doi.org/10.1007/s10444-025-10220-4)][[PDF](https://arxiv.org/pdf/2304.14872)][[Code](https://github.com/MOR-transport/sPOD-NN-paper)]
 
 - **A Characteristic Mapping Method with Source Terms: Applications to Ideal Magnetohydrodynamics**
   <br>
@@ -68,14 +77,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   Adv Comput Math 50, 76 (2024)
   <br>
   [[Article](https://doi.org/10.1007/s10444-024-10175-y)][[PDF](https://arxiv.org/pdf/2302.01391)][[Code](https://github.com/JonasKu/Publication-Split-conservative-model-order-reduction-for-hyperbolic-shallow-water-moment-equations)]
-
-- **A robust shifted proper orthogonal decomposition: Proximal methods for decomposing flows with multiple transports**
-  <br>
-  Philipp Krah, Arthur Marmin, Beata Zorawski, Julius Reiss, Kai Schneider
-  <br>
-  Preprint  arXiv:2403.04313, accepted in SIAM SISC 1.October
-  <br>
-  [[Arxiv](https://arxiv.org/abs/2403.04313)][[Code](https://github.com/MOR-transport/sPOD)]
 
 - **Synthesizing impurity clustering in the edge plasma of tokamaks using neural networks**
   <br>
