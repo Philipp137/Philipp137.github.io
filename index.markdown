@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Jun. 2025]** I will be giving a talk at the [[CIRM Masterclass ANADEAL](https://conferences.cirm-math.fr/3596.html)]
 - **[Mar. 2025]** I am proud of my first article in SIAM [[Article](https://doi.org/10.1137/24M164392X)][[Video](https://github.com/MOR-transport/sPOD/blob/sPOD-main/sPOD_vortex-shedding.gif)]
 - **[Feb. 2025]** Our shifted POD deep learning paper was published in ACOM [[Article](http://dx.doi.org/10.1007/s10444-025-10220-4)]
 - **[Jan. 2025]** I officially joint the theory and numerical simulation group of [CEA-IRFM](https://irfm.cea.fr/) in Cadarache france
