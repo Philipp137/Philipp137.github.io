@@ -38,6 +38,14 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## Publications
 
+- **Gyselalib++: A Portable C++ Library for Semi-Lagrangian Kinetic and Gyrokinetic Simulations**
+  <br>
+  Emily Bourne, Virginie Grandgirard, Yuuichi Asahi, Julien Bigot, Peter Donnel, Alexander Hoffmann, Abdelhadi Kara, Philipp Krah, Baptiste Legouix, Etienne Malaboeuf, Yann Munschy, Kevin Obrejan, Thomas Padioleau, Matthieu Protais, Pauline Vidal
+  <br>
+  Journal of Open Source Software
+  <br>
+  [[Article](https://doi.org/10.21105/joss.08582)
+
 - **A robust shifted proper orthogonal decomposition: Proximal methods for decomposing flows with multiple transports**
   <br>
   Philipp Krah, Arthur Marmin, Beata Zorawski, Julius Reiss, Kai Schneider
