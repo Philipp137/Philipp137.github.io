@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Sept. 2025]** What is the intrinsic dimension of your data? Find it out: [[Article](https://doi.org/10.48550/arXiv.2509.10011)]
 - **[July 2025]** This is a big one: My ANR-Project "CROKE" got funded! Webpage and open positions coming soon!
 - **[Jun. 2025]** I will be giving a talk at the [[CIRM Masterclass ANADEAL](https://conferences.cirm-math.fr/3596.html)]
 - **[Mar. 2025]** I am proud of my first article in SIAM [[Article](https://doi.org/10.1137/24M164392X)][[Video](https://github.com/MOR-transport/sPOD/blob/sPOD-main/sPOD_vortex-shedding.gif)]
@@ -28,23 +29,25 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Nov. 2024]** I will be first speaker at NumKin2024 [[Program](https://www.ipp.mpg.de/5369239/program-numkin-2024)]
 - **[Oct. 2024]** Two new master thesis available for computational physicists or applied mathematicians [[Proposal-1](https://Philipp137.github.io/assets/other/20241004_master_nsPOD.pdf)
 ,[Proposal-2](https://Philipp137.github.io/assets/other/20241004_master_multiVP.pdf)]
-- **[Oct. 2024]** Beata, Arthur, Julius, Kai, and I have published our robust shifted POD paper in SIAM SISC!
-- **[July 2024]** Congrats to my master student Beata for her amazing work that led to this nice preprint: [[Preprint](https://arxiv.org/pdf/2407.17539)]
-- **[July 2024]** Micro-macro model order reduction for shallow water flows published in ACOM: [[Article](https://doi.org/10.1007/s10444-024-10175-y)]
-- **[May 2024]** Vlasov-Poisson Article published in CiCP [[Article](https://doi.org/10.4208/cicp.OA-2024-0012)]
-- **[May 2024]** I will be speaking about dynamic low rank approximation at the FRUMAM workshop "Low rank optimization", 31st of May [[Link](https://www.i2m.univ-amu.fr/seminaires_signal_apprentissage/Conf/Mai2024/#Div1)]
-- **[Mar. 2024]** My first cooperation with the [signal team](https://www.i2m.univ-amu.fr/la-recherche/groupes-scientifiques/groupe-mathematiques-de-laleatoire-alea/equipe-signal-et-image-si/) of the Institut de Mathématiques de Marseille has led to this nice work [[PDF](https://arxiv.org/pdf/2403.04313.pdf)] 
 
 
 ## Publications
+
+- **Intrinsic Dimension Estimating Autoencoder (IDEA) Using CancelOut Layer and a Projected Loss**
+  <br>
+  Antoine Orioua, Philipp Krah, Julian Koellermeier
+  <br>
+  Preprint arXiv:2509.10011
+  <br>
+  [[Article](https://doi.org/10.48550/arXiv.2509.10011)][Code - comming soon]
 
 - **Gyselalib++: A Portable C++ Library for Semi-Lagrangian Kinetic and Gyrokinetic Simulations**
   <br>
   Emily Bourne, Virginie Grandgirard, Yuuichi Asahi, Julien Bigot, Peter Donnel, Alexander Hoffmann, Abdelhadi Kara, Philipp Krah, Baptiste Legouix, Etienne Malaboeuf, Yann Munschy, Kevin Obrejan, Thomas Padioleau, Matthieu Protais, Pauline Vidal
   <br>
-  Journal of Open Source Software
+  Journal of Open Source Software, 10(113), 8582 (2025)
   <br>
-  [[Article](https://doi.org/10.21105/joss.08582)
+  [[Article](https://doi.org/10.21105/joss.08582)][[Code](https://github.com/gyselax/gyselalibxx)]
 
 - **A robust shifted proper orthogonal decomposition: Proximal methods for decomposing flows with multiple transports**
   <br>
