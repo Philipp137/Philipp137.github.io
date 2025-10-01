@@ -35,7 +35,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 - **Intrinsic Dimension Estimating Autoencoder (IDEA) Using CancelOut Layer and a Projected Loss**
   <br>
-  Antoine Orioua, Philipp Krah, Julian Koellermeier
+  Antoine Oriou, Philipp Krah, Julian Koellermeier
   <br>
   Preprint arXiv:2509.10011
   <br>
@@ -169,4 +169,5 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   EPJ Web of Conferences 175, 14024 (2018)
   <br>
   [[PDF](https://www.epj-conferences.org/articles/epjconf/pdf/2018/10/epjconf_lattice2018_14024.pdf)]
+
 
