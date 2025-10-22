@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Oct. 2025]** Will be presenting my latest research at [NumKin 2025](https://www.ipp.mpg.de/5518866/program-numkin-2025) in Munich
 - **[Sept. 2025]** What is the intrinsic dimension of your data? Find it out: [[Article](https://doi.org/10.48550/arXiv.2509.10011)]
 - **[July 2025]** This is a big one: My ANR-Project "CROKE" got funded! Webpage and open positions coming soon!
 - **[Jun. 2025]** I will be giving a talk at the [[CIRM Masterclass ANADEAL](https://conferences.cirm-math.fr/3596.html)]
