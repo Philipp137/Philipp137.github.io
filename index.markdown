@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a computational physicist located in Marseille, interested in various fields of mathematical physics and numerical analysis. 
+I am a computational physicist located in Marseille, interested in applying modern data-science techniques to physics.
 I like to dive with one breath and make music with my friends.
 
 ### Characteristics: 
@@ -11,13 +11,15 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## Research Interests
 
-- **Numerical Methods for PDEs:** adaptive multiresolution, wavelets, volume penalization, conservation laws, high performance computing
+- **Numerical Methods for PDEs:** adaptive multiresolution, wavelets, volume penalization, conservation laws, high performance computing, semi-Lagrangian methods
 - **Model Order Reduction:** shifted proper orthogonal decomposition, front transport reduction, hyper-reduction, transport-dominated systems, low-rank approxiamtion
 - **Machine Learning and Optimization:** physics guided learning, alternating direction methods, matrix product states
-- **Physics:** quantum link models, quantum field theory, fluid flows, plasma flows
+- **Physics:**  fluid flows, plasma fusion
 
 ## News
 
+- **[Dec. 2025]** Excited to anounce my permanent research position as AI researcher in the *Institut de recherche sur la fusion par confinement magnétique (IRFM)* at CEA
+- **[Nov. 2025]** I have updated the webpage of our new ANR-project: [CROKE](https://characteristicmappingmethod.github.io/)
 - **[Oct. 2025]** Will be presenting my latest research at [NumKin 2025](https://www.ipp.mpg.de/5518866/program-numkin-2025) in Munich
 - **[Sept. 2025]** What is the intrinsic dimension of your data? Find it out: [[Article](https://doi.org/10.48550/arXiv.2509.10011)]
 - **[July 2025]** This is a big one: My ANR-Project "CROKE" got funded! Webpage and open positions coming soon!
@@ -25,11 +27,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Mar. 2025]** I am proud of my first article in SIAM [[Article](https://doi.org/10.1137/24M164392X)][[Video](https://github.com/MOR-transport/sPOD/blob/sPOD-main/sPOD_vortex-shedding.gif)]
 - **[Feb. 2025]** Our shifted POD deep learning paper was published in ACOM [[Article](http://dx.doi.org/10.1007/s10444-025-10220-4)]
 - **[Jan. 2025]** I officially joint the theory and numerical simulation group of [CEA-IRFM](https://irfm.cea.fr/) in Cadarache france
-- **[Nov. 2024]** New preprint is out: Ideal MHD with Characteristic Mapping [[Article](http://dx.doi.org/10.48550/arXiv.2411.13772)]
-- **[Nov. 2024]** Giving a talk at the APS conference in Salt Lake City [[Abstract](https://meetings.aps.org/Meeting/DFD24/Session/A08.6)]
-- **[Nov. 2024]** I will be first speaker at NumKin2024 [[Program](https://www.ipp.mpg.de/5369239/program-numkin-2024)]
-- **[Oct. 2024]** Two new master thesis available for computational physicists or applied mathematicians [[Proposal-1](https://Philipp137.github.io/assets/other/20241004_master_nsPOD.pdf)
-,[Proposal-2](https://Philipp137.github.io/assets/other/20241004_master_multiVP.pdf)]
 
 
 ## Publications
