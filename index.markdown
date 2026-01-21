@@ -17,7 +17,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **Physics:**  fluid flows, plasma fusion
 
 ## News
-
+- **[Jan. 2026]** New article was accepted at Machine Learning with Applications [[Article](https://doi.org/10.1016/j.mlwa.2026.100850)]
 - **[Dec. 2025]** Excited to anounce my permanent research position as AI researcher in the *Institut de recherche sur la fusion par confinement magnétique (IRFM)* at CEA
 - **[Nov. 2025]** I have updated the webpage of our new ANR-project: [CROKE](https://characteristicmappingmethod.github.io/)
 - **[Oct. 2025]** Will be presenting my latest research at [NumKin 2025](https://www.ipp.mpg.de/5518866/program-numkin-2025) in Munich
@@ -35,9 +35,9 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Antoine Oriou, Philipp Krah, Julian Koellermeier
   <br>
-  Preprint arXiv:2509.10011
+  Machine Learning with Applications, 100850 (2026),
   <br>
-  [[Article](https://doi.org/10.48550/arXiv.2509.10011)][Code - comming soon]
+  [[Article](https://doi.org/10.1016/j.mlwa.2026.100850)][[PDF](https://arxiv.org/pdf/2509.10011)][[Code](https://github.com/antoineor/IDEA-for-Shallow-Flows/tree/v1.1)]
 
 - **Gyselalib++: A Portable C++ Library for Semi-Lagrangian Kinetic and Gyrokinetic Simulations**
   <br>
