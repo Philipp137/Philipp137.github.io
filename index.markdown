@@ -17,6 +17,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **Physics:**  fluid flows, plasma fusion
 
 ## News
+- **[Jan. 2026]** Intrested in a hybrid ride through phase space using a flow map? Checkout [[Article](https://arxiv.org/pdf/2601.21668)]
 - **[Jan. 2026]** New article was accepted at Machine Learning with Applications [[Article](https://doi.org/10.1016/j.mlwa.2026.100850)]
 - **[Dec. 2025]** Excited to anounce my permanent research position as AI researcher in the *Institut de recherche sur la fusion par confinement magnétique (IRFM)* at CEA
 - **[Nov. 2025]** I have updated the webpage of our new ANR-project: [CROKE](https://characteristicmappingmethod.github.io/)
@@ -30,6 +31,14 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 
 ## Publications
+
+- **A Hybrid semi-Lagrangian Flow Mapping Approach for Vlasov Systems: Combining Iterative and Compositional Flow Maps**
+  <br>
+  Philipp Krah, Zetao Lin, R.-Paul Wilhelm, Fabio Bacchini, Jean-Christophe Nave, Virginie Grandgirard, Kai Schneider
+  <br>
+   arXiv:2601.21668 (2026),
+  <br>
+  [[Article](https://arxiv.org/abs/2601.21668)][Code comming soon]
 
 - **Intrinsic Dimension Estimating Autoencoder (IDEA) Using CancelOut Layer and a Projected Loss**
   <br>
