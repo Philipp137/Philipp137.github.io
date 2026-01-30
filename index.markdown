@@ -38,7 +38,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
    arXiv:2601.21668 (2026),
   <br>
-  [[Article](https://arxiv.org/abs/2601.21668)][Code comming soon]
+  [[Article](https://arxiv.org/abs/2601.21668)][Code coming soon]
 
 - **Intrinsic Dimension Estimating Autoencoder (IDEA) Using CancelOut Layer and a Projected Loss**
   <br>
@@ -176,5 +176,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   EPJ Web of Conferences 175, 14024 (2018)
   <br>
   [[PDF](https://www.epj-conferences.org/articles/epjconf/pdf/2018/10/epjconf_lattice2018_14024.pdf)]
+
 
 
