@@ -17,6 +17,8 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **Physics:**  fluid flows, plasma fusion
 
 ## News
+
+- **[Feb. 2026]** Our CMM-MHD paper was published in JCP [[Article](https://doi.org/10.1016/j.jcp.2026.114766)]
 - **[Jan. 2026]** Intrested in a hybrid ride through phase space using a flow map? Checkout [[Article](https://arxiv.org/pdf/2601.21668)]
 - **[Jan. 2026]** New article was accepted at Machine Learning with Applications [[Article](https://doi.org/10.1016/j.mlwa.2026.100850)]
 - **[Dec. 2025]** Excited to anounce my permanent research position as AI researcher in the *Institut de recherche sur la fusion par confinement magnétique (IRFM)* at CEA
@@ -26,11 +28,17 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[July 2025]** This is a big one: My ANR-Project "CROKE" got funded! Webpage and open positions coming soon!
 - **[Jun. 2025]** I will be giving a talk at the [[CIRM Masterclass ANADEAL](https://conferences.cirm-math.fr/3596.html)]
 - **[Mar. 2025]** I am proud of my first article in SIAM [[Article](https://doi.org/10.1137/24M164392X)][[Video](https://github.com/MOR-transport/sPOD/blob/sPOD-main/sPOD_vortex-shedding.gif)]
-- **[Feb. 2025]** Our shifted POD deep learning paper was published in ACOM [[Article](http://dx.doi.org/10.1007/s10444-025-10220-4)]
-- **[Jan. 2025]** I officially joint the theory and numerical simulation group of [CEA-IRFM](https://irfm.cea.fr/) in Cadarache france
 
 
 ## Publications
+
+- **A Characteristic Mapping Method with Source Terms: Applications to Ideal Magnetohydrodynamics**
+  <br>
+  X.-Y. Yin, P. Krah, J.-C. Nave, K. Schneider
+  <br>
+  J. Comput. Phys., Volume 555 (2026)
+  <br>
+  [[Article](https://doi.org/10.1016/j.jcp.2026.114766)][[PDF](https://arxiv.org/pdf/2411.13772)]
 
 - **A Hybrid semi-Lagrangian Flow Mapping Approach for Vlasov Systems: Combining Iterative and Compositional Flow Maps**
   <br>
@@ -38,7 +46,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
    arXiv:2601.21668 (2026),
   <br>
-  [[Article](https://arxiv.org/abs/2601.21668)][Code comming soon]
+  [[Article](https://arxiv.org/abs/2601.21668)][[Code](https://github.com/CharacteristicMappingMethod/plasma-sim)]
 
 - **Intrinsic Dimension Estimating Autoencoder (IDEA) Using CancelOut Layer and a Projected Loss**
   <br>
@@ -52,7 +60,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Emily Bourne, Virginie Grandgirard, Yuuichi Asahi, Julien Bigot, Peter Donnel, Alexander Hoffmann, Abdelhadi Kara, Philipp Krah, Baptiste Legouix, Etienne Malaboeuf, Yann Munschy, Kevin Obrejan, Thomas Padioleau, Matthieu Protais, Pauline Vidal
   <br>
-  Journal of Open Source Software, 10(113), 8582 (2025)
+  J. open source softw., 10(113), 8582 (2025)
   <br>
   [[Article](https://doi.org/10.21105/joss.08582)][[Code](https://github.com/gyselax/gyselalibxx)]
 
@@ -69,17 +77,9 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
   <br>
   Shubhaditya Burela, Philipp Krah, Julius Reiss
   <br>
-  Adv Comput Math 51, 9 (2025)
+  Adv. Comput. Math. 51, 9 (2025)
   <br>
   [[Article](https://doi.org/10.1007/s10444-025-10220-4)][[PDF](https://arxiv.org/pdf/2304.14872)][[Code](https://github.com/MOR-transport/sPOD-NN-paper)]
-
-- **A Characteristic Mapping Method with Source Terms: Applications to Ideal Magnetohydrodynamics**
-  <br>
-  X.-Y. Yin, P. Krah, J.-C. Nave, K. Schneider
-  <br>
-  Preprent arXiv:2411.13772 (2024)
-  <br>
-  [[PDF](https://arxiv.org/pdf/2411.13772)]
 
 - **Automated transport separation using the neural shifted proper orthogonal decomposition**
   <br>
