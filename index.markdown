@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Mar. 2026]** I became an official member of the Gysela-X developer team [[Link](https://gyselax.github.io/author/dr.-philipp-krah/)]
 - **[Feb. 2026]** Our CMM-MHD paper was published in JCP [[Article](https://doi.org/10.1016/j.jcp.2026.114766)]
 - **[Jan. 2026]** Intrested in a hybrid ride through phase space using a flow map? Checkout [[Article](https://arxiv.org/pdf/2601.21668)]
 - **[Jan. 2026]** New article was accepted at Machine Learning with Applications [[Article](https://doi.org/10.1016/j.mlwa.2026.100850)]
@@ -27,7 +28,6 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 - **[Sept. 2025]** What is the intrinsic dimension of your data? Find it out: [[Article](https://doi.org/10.48550/arXiv.2509.10011)]
 - **[July 2025]** This is a big one: My ANR-Project "CROKE" got funded! Webpage and open positions coming soon!
 - **[Jun. 2025]** I will be giving a talk at the [[CIRM Masterclass ANADEAL](https://conferences.cirm-math.fr/3596.html)]
-- **[Mar. 2025]** I am proud of my first article in SIAM [[Article](https://doi.org/10.1137/24M164392X)][[Video](https://github.com/MOR-transport/sPOD/blob/sPOD-main/sPOD_vortex-shedding.gif)]
 
 
 ## Publications
