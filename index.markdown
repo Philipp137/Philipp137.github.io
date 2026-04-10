@@ -18,6 +18,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Apr. 2026]** Next month I will give a talk at the ["HPC and AI convergence at the exascale era" - workshop](https://aissai-hace.sciencesconf.org/?lang=en) in Toulouse
 - **[Mar. 2026]** I became an official member of the Gysela-X developer team [[Link](https://gyselax.github.io/author/dr.-philipp-krah/)]
 - **[Feb. 2026]** Our CMM-MHD paper was published in JCP [[Article](https://doi.org/10.1016/j.jcp.2026.114766)]
 - **[Jan. 2026]** Intrested in a hybrid ride through phase space using a flow map? Checkout [[Article](https://arxiv.org/pdf/2601.21668)]
