@@ -6,9 +6,6 @@ layout: homepage
 I am a computational physicist located in Marseille, interested in applying modern data-science techniques to physics.
 I like to dive with one breath and make music with my friends.
 
-### Characteristics: 
-Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandbells), [Water-needed](https://www.tc-lichtenberg.de/aktuelles/aktivit%C3%A4ten-2021/tauchen-in-ammelshain.html).
-
 ## Research Interests
 
 - **Numerical Methods for PDEs:** adaptive multiresolution, wavelets, volume penalization, conservation laws, high performance computing, semi-Lagrangian methods
@@ -18,6 +15,7 @@ Physics-love, Algorithms-fun, [Rhythm-freedom](https://soundcloud.com/massesandb
 
 ## News
 
+- **[Aug. 2026]** Come to my poster presentation at [ICDDPS-7](https://www.icddps.org/) in Kiel [[Poster](https://github.com/Philipp137/Philipp137.github.io/tree/master/assets/poster/poster_kiel.pdf)]
 - **[Apr. 2026]** Next month I will give a talk at the ["HPC and AI convergence at the exascale era" - workshop](https://aissai-hace.sciencesconf.org/?lang=en) in Toulouse
 - **[Mar. 2026]** I became an official member of the Gysela-X developer team [[Link](https://gyselax.github.io/author/dr.-philipp-krah/)]
 - **[Feb. 2026]** Our CMM-MHD paper was published in JCP [[Article](https://doi.org/10.1016/j.jcp.2026.114766)]
