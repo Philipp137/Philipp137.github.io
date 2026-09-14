@@ -15,6 +15,7 @@ I like to dive with one breath and make music with my friends.
 
 ## News
 
+- **[Sept. 2026]** New article on KEEN-waves is out: [[Article](https://arxiv.org/abs/2609.04941v1)]
 - **[Aug. 2026]** Come to my poster presentation at [ICDDPS-7](https://www.icddps.org/) in Kiel [[Poster](https://github.com/Philipp137/Philipp137.github.io/tree/master/assets/poster/poster_kiel.pdf)]
 - **[Apr. 2026]** Next month I will give a talk at the ["HPC and AI convergence at the exascale era" - workshop](https://aissai-hace.sciencesconf.org/?lang=en) in Toulouse
 - **[Mar. 2026]** I became an official member of the Gysela-X developer team [[Link](https://gyselax.github.io/author/dr.-philipp-krah/)]
@@ -25,11 +26,17 @@ I like to dive with one breath and make music with my friends.
 - **[Nov. 2025]** I have updated the webpage of our new ANR-project: [CROKE](https://characteristicmappingmethod.github.io/)
 - **[Oct. 2025]** Will be presenting my latest research at [NumKin 2025](https://www.ipp.mpg.de/5518866/program-numkin-2025) in Munich
 - **[Sept. 2025]** What is the intrinsic dimension of your data? Find it out: [[Article](https://doi.org/10.48550/arXiv.2509.10011)]
-- **[July 2025]** This is a big one: My ANR-Project "CROKE" got funded! Webpage and open positions coming soon!
-- **[Jun. 2025]** I will be giving a talk at the [[CIRM Masterclass ANADEAL](https://conferences.cirm-math.fr/3596.html)]
 
 
 ## Publications
+
+- **Revisiting kinetic electrostatic electron non-linear (KEEN) waves in the presence of dynamical ions**
+  <br>
+  RP. Wilhelm, P. Krah, K. Schneider, F. Bacchini, V.Grandgirard
+  <br>
+  Preprint, arXiv:2609.04941 (2026)
+  <br>
+  [[Article](https://arxiv.org/abs/2609.04941)][[PDF](https://arxiv.org/pdf/2609.04941)]
 
 - **A Characteristic Mapping Method with Source Terms: Applications to Ideal Magnetohydrodynamics**
   <br>
