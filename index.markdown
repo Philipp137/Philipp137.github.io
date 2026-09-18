@@ -15,7 +15,7 @@ I like to dive with one breath and make music with my friends.
 
 ## News
 
-- **[Sept. 2026]** New article on KEEN-waves is out: [[Article](https://arxiv.org/abs/2609.04941v1)]
+- **[Sept. 2026]** 2 new articles out: [[Article 1](https://arxiv.org/abs/2609.04941v1)][[Article 2](https://arxiv.org/abs/2609.16328)]
 - **[Aug. 2026]** Come to my poster presentation at [ICDDPS-7](https://www.icddps.org/) in Kiel [[Poster](https://github.com/Philipp137/Philipp137.github.io/raw/refs/heads/master/assets/poster/poster_kiel.pdf)]
 - **[Apr. 2026]** Next month I will give a talk at the ["HPC and AI convergence at the exascale era" - workshop](https://aissai-hace.sciencesconf.org/?lang=en) in Toulouse
 - **[Mar. 2026]** I became an official member of the Gysela-X developer team [[Link](https://gyselax.github.io/author/dr.-philipp-krah/)]
@@ -29,6 +29,14 @@ I like to dive with one breath and make music with my friends.
 
 
 ## Publications
+
+- **Characteristic Mapping Method for Vlasov–Poisson with BGK-collisions**
+  <br>
+  X.-Y. Yin, P. Krah, Z. Lin, J.-C. Nave, K. Schneider
+  <br>
+  Preprint, arXiv:2609.16328 (2026)
+  <br>
+  [[Article](https://arxiv.org/abs/2609.16328)][[PDF](https://arxiv.org/pdf/2609.16328)]
 
 - **Revisiting kinetic electrostatic electron non-linear (KEEN) waves in the presence of dynamical ions**
   <br>
