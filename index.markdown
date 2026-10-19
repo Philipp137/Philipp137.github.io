@@ -8,14 +8,14 @@ I like to dive with one breath and make music with my friends.
 
 ## Research Interests
 
-- **Numerical Methods for PDEs:** adaptive multiresolution, wavelets, high performance computing, semi-Lagrangian methods
+- **Numerical Methods for PDEs:** adaptive multiresolution, wavelets, high performance computing, semi-Lagrangian methods, HPC/AI hybridization for PDEs
 - **Model Order Reduction:** shifted proper orthogonal decomposition, front transport reduction, hyper-reduction, transport-dominated systems, low-rank approxiamtion
-- **Machine Learning and Optimization:** alternating direction methods, matrix product states, physics-informed neural networks
+- **Machine Learning and Optimization:** alternating direction methods, matrix product states, physics-informed neural networks, data-assimilation
 - **Physics:**  fluid flows, plasma fusion
 
 ## News
 
-- **[Sept. 2026]** I am excited about my latest collaboration with INRIA Strasbourg and MPI Garchingen, that has introduced me to PINNs in the context of transport-dominated problems [[Article](https://arxiv.org/abs/2610.12395)]
+- **[Oct. 2026]** I am excited about my latest collaboration with INRIA Strasbourg and MPI Garchingen, that has introduced me to PINNs in the context of transport-dominated problems [[Article](https://arxiv.org/abs/2610.12395)]
 - **[Sept. 2026]** 2 new articles out: [[Article 1](https://arxiv.org/abs/2609.04941v1)][[Article 2](https://arxiv.org/abs/2609.16328)]
 - **[Aug. 2026]** Come to my poster presentation at [ICDDPS-7](https://www.icddps.org/) in Kiel [[Poster](https://github.com/Philipp137/Philipp137.github.io/raw/refs/heads/master/assets/poster/poster_kiel.pdf)]
 - **[Apr. 2026]** Next month I will give a talk at the ["HPC and AI convergence at the exascale era" - workshop](https://aissai-hace.sciencesconf.org/?lang=en) in Toulouse
@@ -31,7 +31,7 @@ I like to dive with one breath and make music with my friends.
 
 ## Publications
 
-- **A neural characteristic mapping method: Lagrangian PINNs based on flow maps for transport dominated problems**
+- **A Neural Characteristic Mapping Method: Lagrangian PINNs based on flow maps for transport dominated problems**
   <br>
   M. Campos-Pinto, V. Fournet, E. Franck, P. Krah, V. Michel-Dansac
   <br>
